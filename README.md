@@ -10,6 +10,9 @@ Ao longo dessa jornada, pude me aventurar tanto no back-end quanto no front-end,
 
 Estou disponível para oportunidades de nível Junior.
 
+Mais informações: https://felipelrsouza.beluga.eng.br
+E-mail: felipelrsouza@outlook.com
+
 <!---
 felipelrsouza/felipelrsouza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
