@@ -10,7 +10,6 @@ Ao longo dessa jornada, pude me aventurar tanto no back-end quanto no front-end,
 
 Estou disponível para oportunidades de nível Junior.
 
-Mais informações: https://felipelrsouza.beluga.eng.br
 E-mail: felipelrsouza@outlook.com
 
 <!---
